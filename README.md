@@ -28,7 +28,7 @@ Sou movido por desafios, sempre em busca de superar barreiras e expandir meu con
 <h1 align="center"> Estudando ou já tive experiência: </h1>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,postgres,git" />
   </a>
 </div>
 <br>
