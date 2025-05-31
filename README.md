@@ -1,19 +1,19 @@
-<!-- Description about me -->
 <h2 align="center"> 😀 Sobre mim 👨‍💻 </h2>
-
 Olá!🖐️ Eu sou André Luiz.<br />
+
 Sou movido por desafios, sempre em busca de superar barreiras e expandir meu conhecimento em tecnologia.🚀<br />
+
 <br/><br/>
 ### 🧐 Mais sobre mim:
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; padding: 0; vertical-align: top;">
       <ul style="list-style-type: none; padding-left: 0;">
-        <li>🎓 Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> no <b>IFPE</b>.</li>
-        <li>✏️ Atualmente estou focando meus estudos em Java.</li>
-        <li>🤝 Procurando colaborar em projetos.</li>
-        <li>🎼 Nas horas vagas, gosto de tocar violão.</li>
-        <li>📚 Sempre em busca de novos desafios e aprendizado.</li>     
+        <li>🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> no <b>IFPE</b>.</li>
+        <li>💡 Desenvolvi <b>projetos web em Django</b>, <b>Java Spring Boot</b>, e projetos de <b>Machine Learning</b>, o que tem aperfeiçoado minhas habilidades em <b>back-end</b> e <b>front-end</b> e reforçado meu <b>aprendizado contínuo</b>.</li>
+        <li>☁️ Atualmente, me aprimorando em <b>Cloud Computing</b> e próximo de obter minha certificação <b>AWS</b>.</li>
+        <li>🤝 Busco colaborar em projetos e estou sempre em busca de novos <b>desafios</b> e <b>aprendizado</b>.</li>
+        <li>🎼 Nas horas vagas, gosto de tocar <b>violão</b>.</li>
       </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
@@ -23,18 +23,17 @@ Sou movido por desafios, sempre em busca de superar barreiras e expandir meu con
   </tr>
 </table>
 
-<!-- Languages and skills section -->
+---
 
 <h1 align="center"> Estudando ou já tive experiência: </h1>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,django,mysql,postgres,github,git" />
   </a>
 </div>
 <br>
 
 <br><br><br>
-<!-- Social icons section -->
 <h1 align="center"> Contato💼: </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-467801311/">
@@ -47,7 +46,6 @@ Sou movido por desafios, sempre em busca de superar barreiras e expandir meu con
 
 <hr>
 
-<!-- GitHub stats section -->
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -57,6 +55,6 @@ Sou movido por desafios, sempre em busca de superar barreiras e expandir meu con
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Linguagens mais usadas" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedecode&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4">
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedecode&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4">
   </a>
 </p>
