@@ -17,7 +17,7 @@ Sou movido por desafios, sempre em busca de superar barreiras e expandir meu con
       </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+      <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg3MzYyOTYsIm5iZiI6MTc0ODczNTk5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTMxVDIzNTk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmNDA5OTU3NTU4OWE0MTJlNjA5MDhjY2MwZTdlNThiZmY5YmJhMjE0MDJjZTk2YWNlMGQ3NGI2NjIyYjdhOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xoYW8cbS_RJFAy3HZ8kBeWbZxDCpMaN0wKMG9fq-a6k" width="500">
 <br><br>
     </td>
   </tr>
